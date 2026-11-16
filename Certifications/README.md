@@ -1,1 +1,1 @@
-This folder contains my professional certifications and course completions certificates.
+This folder contains my professional certifications and course completion certificates.
