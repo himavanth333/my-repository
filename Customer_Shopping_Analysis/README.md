@@ -21,6 +21,3 @@ Analyzed 99,457 customer transaction records to understand purchasing behavior, 
 - Cash was the most frequently used payment method.
 - Technology generated substantial revenue despite fewer transactions.
 - Revenue varied across shopping malls.
-
-
-**Domain:** Data Analytics | Retail Analytics | Customer Behavior Analysis
